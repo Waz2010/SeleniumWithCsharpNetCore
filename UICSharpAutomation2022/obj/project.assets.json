@@ -5563,11 +5563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wasee\\Desktop\\2022 Projects\\UICSharpAutomation2022\\UICSharpAutomation2022\\UICSharpAutomation2022\\UICSharpAutomation2022.csproj",
+      "projectUniqueName": "C:\\Users\\wasee\\Desktop\\GitHubRepo\\SeleniumWithCsharpNetCore\\UICSharpAutomation2022\\UICSharpAutomation2022.csproj",
       "projectName": "UICSharpAutomation2022",
-      "projectPath": "C:\\Users\\wasee\\Desktop\\2022 Projects\\UICSharpAutomation2022\\UICSharpAutomation2022\\UICSharpAutomation2022\\UICSharpAutomation2022.csproj",
+      "projectPath": "C:\\Users\\wasee\\Desktop\\GitHubRepo\\SeleniumWithCsharpNetCore\\UICSharpAutomation2022\\UICSharpAutomation2022.csproj",
       "packagesPath": "C:\\Users\\wasee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wasee\\Desktop\\2022 Projects\\UICSharpAutomation2022\\UICSharpAutomation2022\\UICSharpAutomation2022\\obj\\",
+      "outputPath": "C:\\Users\\wasee\\Desktop\\GitHubRepo\\SeleniumWithCsharpNetCore\\UICSharpAutomation2022\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
