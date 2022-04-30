@@ -1,0 +1,14 @@
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\UICSharpAutomation2022.deps.json
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\UICSharpAutomation2022.runtimeconfig.json
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\UICSharpAutomation2022.runtimeconfig.dev.json
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\UICSharpAutomation2022.dll
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\bin\Debug\netcoreapp2.2\UICSharpAutomation2022.pdb
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.csproj.CoreCompileInputs.cache
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.AssemblyInfoInputs.cache
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.AssemblyInfo.cs
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.dll
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.pdb
+C:\Users\wasee\Desktop\2022 Projects\UICSharpAutomation2022\UICSharpAutomation2022\UICSharpAutomation2022\obj\Debug\netcoreapp2.2\UICSharpAutomation2022.csprojAssemblyReference.cache
