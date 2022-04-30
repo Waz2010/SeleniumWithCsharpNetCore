@@ -7,7 +7,7 @@ using System;
     public class Tests
     {
         public IWebDriver Driver;
-
+    // Add comments
         [SetUp]
         public void Setup()
         {
